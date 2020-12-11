@@ -1,0 +1,12 @@
+#高尔夫闪电战
+host, api.gameanalytics.com, direct
+host-suffix, supersonicads.com, direct
+host, networksdk.ssacdn.com, direct
+host-suffix, appsflyer.com, direct
+host, toblog.ctobsnssdk.com, direct
+host, logs.supersonic.com, direct
+host, bds.snssdk.com, direct
+host, smr.snssdk.com, direct
+host, impression.aflink.com, direct
+host, s3.amazonaws.com, direct
+host, data.flurry.com, direct
