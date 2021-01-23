@@ -5,4 +5,4 @@ host-suffix, appsflyer.com, direct
 host-suffix, supersonicads.com, direct
 host, logs.supersonic.com, direct
 host, smr.snssdk.com, direct
-user-agent, .*高尔夫闪电战.*, PROXY
+user-agent, .*高尔夫闪电战.*, direct
