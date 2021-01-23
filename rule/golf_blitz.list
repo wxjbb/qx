@@ -1,7 +1,7 @@
 host, app-measurement.com, PROXY
 host-suffix, noodlecakegames.net, PROXY
+host-suffix, playgolfblitz.com, PROXY
 host, t.appsflyer.com, PROXY
 host, app-measurement.com, PROXY
-host, news.playgolfblitz.com, PROXY
 host, firebaseremoteconfig.googleapis.com, PROXY
 host, firebaselogging-pa.googleapis.com, PROXY
