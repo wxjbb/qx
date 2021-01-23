@@ -1,3 +1,7 @@
-host, app-measurement.com, 🇺🇲 美国节点
-host-suffix, noodlecakegames.net, 🇺🇲 美国节点
-host, t.appsflyer.com, 🇺🇲 美国节点
+host, app-measurement.com, PROXY
+host-suffix, noodlecakegames.net, PROXY
+host, t.appsflyer.com, PROXY
+host, app-measurement.com, PROXY
+host, news.playgolfblitz.com, PROXY
+host, firebaseremoteconfig.googleapis.com, PROXY
+host, firebaselogging-pa.googleapis.com, PROXY
