@@ -5,3 +5,4 @@ host, t.appsflyer.com, PROXY
 host, app-measurement.com, PROXY
 host, firebaseremoteconfig.googleapis.com, PROXY
 host, firebaselogging-pa.googleapis.com, PROXY
+user-agent, .*Golf.*Blitz.*, PROXY
