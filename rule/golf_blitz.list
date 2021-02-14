@@ -1,3 +1,4 @@
+user-agent, .*Golf.*Blitz.*, PROXY
 host-suffix, gamesparks.net, PROXY
 host-suffix, noodlecakegames.net, PROXY
 host-suffix, playgolfblitz.com, PROXY
@@ -5,4 +6,4 @@ host, t.appsflyer.com, PROXY
 host, app-measurement.com, PROXY
 host, firebaseremoteconfig.googleapis.com, PROXY
 host, firebaselogging-pa.googleapis.com, PROXY
-user-agent, .*Golf.*Blitz.*, PROXY
+host-suffix, s3.amazonaws.com, PROXY
