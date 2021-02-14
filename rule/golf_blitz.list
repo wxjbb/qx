@@ -7,3 +7,4 @@ host, app-measurement.com, PROXY
 host, firebaseremoteconfig.googleapis.com, PROXY
 host, firebaselogging-pa.googleapis.com, PROXY
 host-suffix, s3.amazonaws.com, PROXY
+host-suffix, crashlytics.com, PROXY
